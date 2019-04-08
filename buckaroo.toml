@@ -1,5 +1,3 @@
 targets = [ 
-  "//:argh",
-  "//:tests",
-  "//:example"
+  "//:argh"
  ]
